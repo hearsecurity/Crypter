@@ -108,7 +108,7 @@ int main(int argc, char **argv) {
      cout << "\n--------------------------------" << endl; 
      cout << "  SIMPLE ENCRYPTION ALGORITHM   " << endl; 
      cout << "--------------------------------" << endl;
-     cout << "Operation 1: Encrypt" << endl; 
+     cout << "\nOperation 1: Encrypt" << endl; 
      cout << "Operation 2: Decrypt" << endl;  
 
      cout << "Type the operation: "; 
