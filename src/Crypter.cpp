@@ -111,7 +111,7 @@ int main(int argc, char **argv) {
      cout << "\nOperation 1: Encrypt" << endl; 
      cout << "Operation 2: Decrypt" << endl;  
 
-     cout << "Type the operation: "; 
+     cout << "\nType the operation: "; 
      cin >> op; 
 
      cout << "Type file name: "; 
